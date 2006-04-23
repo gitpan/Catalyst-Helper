@@ -1,0 +1,21 @@
+abstract: Bootstrap a Catalyst application
+author: 'Sebastian Riedel, C<sri@oook.de>'
+distribution_type: module
+generated_by: Module::Install version 0.61
+license: perl
+name: Catalyst-Helper
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Class::Data::Inheritable: 0
+  File::Copy::Recursive: 0
+  Module::Install: 0.61
+  Module::Install::Admin: 0.61
+  NEXT: 0
+  Path::Class: 0.09
+  Template: 0
+  Time::HiRes: 0
+  perl: 5.8.1
+version: 1.0_01
